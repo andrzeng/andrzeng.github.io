@@ -9,56 +9,30 @@ redirect_from:
 
 {% include base_path %}
 
-Education
-======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+This is a reading group on spin-glasses co-organized with [Edward García-Hernández](https://ca.linkedin.com/in/egh3456phy). We plan to cover topics from a physicist's point of view, as well as discuss applications of spin-glass theory to areas such as Quadratic unconstrained binary optimization (QUBO), and neural networks (tentative).
 
-Work experience
+Schedule
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* Week 1: 
+    * TBA
+* Week 2: 
+    * TBA
+* Week 3:
+    * TBA
+* Week 4:
+    * TBA
+* More weeks to come...
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+References (incomplete)
+======
+* Mézard, M., Parisi, G., & Virasoro, M. A. (1987). Spin glass theory and beyond: An Introduction to the Replica Method and Its Applications (Vol. 9). World Scientific Publishing Company.
 
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Mezard, M., & Montanari, A. (2009). Information, physics, and computation. Oxford University Press.
 
-Publications
-======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+* Nishimori, H. (2001). Statistical physics of spin glasses and information processing (Vol. 187). Oxford: Oxford university press.
+
+* Tanaka, S., Tamura, R., & Chakrabarti, B. K. (2017). Quantum spin glasses, annealing and computation. Cambridge University Press.
+
+* Charbonneau, P., Marinari, E., Mézard, M., Parisi, G., Ricci-Tersenghi, F., Sicuro, G., & Zamponi, F. (2023). Spin glass theory and far beyond. In Spin glass theory and far beyond. Replica symmetry breaking after 40 Years (pp. 1-13). World Scientific.
+
+* Stein, D. L., & Newman, C. M. (2013). Spin glasses and complexity. Princeton University Press.
